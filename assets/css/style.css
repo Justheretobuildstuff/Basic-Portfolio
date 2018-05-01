@@ -44,39 +44,48 @@ h3 {
   float: right;
 }
 
-/*
+.boxed2 {
+    border: 10px green;
+    background-color: white;
+    margin: 400px 200px 200px 200px;
+    padding: 20px;
+
+}
 
 h1 {
+    color: #4aaaa5;
+    font-size: 32px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+
+
+
+
+/*
+h1 {
+    margin: 150px 50px 50px 225px;
+    float: left;
+    background-color: white;
+    width: 1030px;
+    border: 50px black;
     margin-left: 200px;
-  margin-right: 200px;
-
+    margin-right: 200px;
+    padding: 10px 10px 10px 10px;
+    color: #4aaaa5;
+    font-size: 32px;
+    font-family: Georgia, Times, "Times New Roman", serif;
 }
 
-
-
-
-.container {
-  width: 1024px;
-  margin: 0 auto;
-}
-
-#main-bio,
-#contact-info,
-#bio-image {
-  float: left;
-}
-
-#main-bio {
-  width: 70%;
-}
-
-#contact-info {
-  width: 30%;
-}
-
-#bio-image {
-  width: 200px;
-  height: 200px;
-  margin-right: 20px;
+.myaboutme {
+    float: left;
+    background-color: white;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    padding: 25px 25px 25px 25px;
+    position: relative;
+    border: 10px black;
+    width: 1000px;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 */
