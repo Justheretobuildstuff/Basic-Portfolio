@@ -12,6 +12,16 @@ body {
   
 }
 
+.insideboxed1 {
+  margin-left:100px;
+  width: 20%;
+  padding: 10px;
+  background-color: #4aaaa5;
+
+  
+}
+
+/*
 #myname {
   width: 25%;
   height: 100px;
@@ -44,7 +54,7 @@ h3 {
   float: right;
 }
 
-.boxed2 {
+.boxed3 {
     border: 10px green;
     background-color: white;
     margin: 400px 200px 200px 200px;
