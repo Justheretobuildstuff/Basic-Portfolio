@@ -50,31 +50,30 @@ h3 {
 }
 
 #headercontact {
-  top: 50px;
   float: right;
   text-align: center;
-  padding: 5px;
+  padding: 15px;
   width: 20%;
 }
 
 #headerportfolio {
   float: right;
   text-align: center;
-  padding: 5px;
+  padding: 15px;
   width: 20%;
 }
 
 #headerabout {
   float: right;
   text-align: center;
-  padding: 5px;
+  padding: 15px;
   width: 20%;
 }
-/*
+
 .boxed3 {
     border: 10px green;
     background-color: white;
-    margin: 400px 200px 200px 200px;
+    margin: 120px 200px 200px 200px;
     padding: 20px;
 
 }
