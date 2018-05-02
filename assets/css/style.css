@@ -1,7 +1,9 @@
-body {
+body, html{
   max-height: 960px;
   background-image:url("../images/light-grey-terrazzo.png");
   z-index: 0;
+  margin: 0;
+  padding: 0;
 }
 
 .myheader {
