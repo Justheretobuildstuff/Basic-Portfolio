@@ -120,6 +120,12 @@ img {
   color: #777777;
 }
 
+.textincontact {
+  font-size: 18px;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  color: #777777;
+}
+
 .tealfooter {
   background: #4aaaa5;
   width: 100%;
