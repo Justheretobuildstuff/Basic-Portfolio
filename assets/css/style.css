@@ -15,7 +15,7 @@ body, html{
   z-index: 1;
   border-bottom: solid;
   border-width: 1px;
-  border-color: #777777;
+  border-color: #cccccc;
 }
 
 .insideboxed1left {
@@ -39,14 +39,15 @@ body, html{
 
 .insideboxed1right {
   width: 25%;
-  padding: 7px;
+  padding: 18px 10px 0px 0px;
+  text-align: center;
   z-index: 2;
   margin-right: 200px;
   float: right;
 }
 
 h3 {
-  font-size: 16px;
+  font-size: 14px;
   color: #777777;
   text-align: center;
   font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
@@ -55,32 +56,30 @@ h3 {
 
 #headercontact {
   float: right;
-  text-align: center;
-  padding: 15px;
   width: 20%;
-  line-height: 2px;
+
+  line-height: 15px;
   border-left: solid;
   border-width: 1px;
-  border-color: #777777;
+  border-color: #cccccc;
   
 }
 
 #headerportfolio {
   float: right;
-  text-align: center;
-  padding: 15px;
   width: 20%;
-  line-height: 2px;
+  line-height: 15px;
   border-left: solid;
   border-width: 1px;
-  border-color: #777777;
+  border-color: #cccccc;
 }
 
 #headerabout {
   float: right;
-  text-align: center;
-  line-height: 2px;
-  padding: 15px;
+  width: 20%;
+  line-height: 15px;
+  border-left: none;
+  border-width: 1px;
   width: 20%;
 }
 
@@ -114,6 +113,11 @@ img {
   padding-right: 15px;
 }
 
+.myaboutme {
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  color: #777777;
+}
+
 .tealfooter {
   background: #4aaaa5;
   width: 100%;
@@ -124,7 +128,7 @@ img {
 }
 
 .footer {
-  background-color: grey;
+  background-color: #666666;
   width: 100%;
   height: 70px;
   position: fixed;
