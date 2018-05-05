@@ -161,7 +161,35 @@ h5 {
   border: solid;
   border-color: #dddddd;
   border-width: 1px;
+}
 
+.groupofphotos {
+  height: 100%;
+  color:white;
+}
+
+.castlephoto {
+  float: left;
+}
+
+.guitarphoto {
+  padding: 0px 0px 0px 0px;
+
+}
+
+.redwheelphoto {
+  float: left;
+  padding: 20px 0px 0px 0px;
+  left: 0px;
+}
+
+.mixerphoto {
+  float: left;
+  top: 0px;
+}
+
+.pizzaphoto {
+ margin: 5px 0px 0px 0px;
 }
 
 .tealfooter {
