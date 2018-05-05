@@ -46,12 +46,29 @@ body, html{
   float: right;
 }
 
-h3 {
-  font-size: 14px;
-  color: #777777;
-  text-align: center;
+a:link {
+  color: #777777; 
+  background-color: transparent;
   font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
-  z-index: 3;
+  text-decoration: none;
+}
+
+a:visited {
+  color: grey;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
 }
 
 #headercontact {
@@ -165,11 +182,19 @@ h5 {
 
 .groupofphotos {
   height: 100%;
-  color:white;
+  color:black;
+  position: relative;
+  text-align: center;
 }
 
 .castlephoto {
   float: left;
+}
+
+.castle {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
 }
 
 .guitarphoto {
@@ -189,7 +214,8 @@ h5 {
 }
 
 .pizzaphoto {
- margin: 5px 0px 0px 0px;
+ float: left;
+ padding: 20px 0px 0px 0px;
 }
 
 .tealfooter {
