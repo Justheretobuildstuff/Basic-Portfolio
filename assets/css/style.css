@@ -135,6 +135,7 @@ img {
 .myaboutme {
   font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
   color: #777777;
+  line-height: 20px;
 }
 
 .textincontact {
